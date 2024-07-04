@@ -1,8 +1,5 @@
 # ChatApp
 
-You can access the live version of the project from the link below.
-</br>
-Live:https://chat-app-gold-xi.vercel.app/
 
 <h2>Project Content</h2>
 Firebase is used to perform functions such as logging in to users, joining rooms, and chatting.
